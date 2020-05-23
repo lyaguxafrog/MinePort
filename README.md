@@ -24,7 +24,7 @@ Then, in the window that opens, we look for minecraft and add to your Steam-libr
 
 Now in minecraft itself, it is better to disable all resource packs, since this loads the devices and the network. As well as increasing the interface, it will just be easier for you to play.
 
-# Mobile device
+## 1.Mobile device
 
 And there are no settings on your mobile device, you just need to install the official app from Valve-Steam Link([IOS](https://apps.apple.com/us/app/steam-link/id1246969117)/[Android](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink)/[RasberryPi](https://steamcommunity.com/app/353380/discussions/6/2806204039992195182/))
 
