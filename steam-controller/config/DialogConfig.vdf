@@ -295,7 +295,7 @@
 						"#ServerBrowser_Servers_hidden"		"0"
 						"#ServerBrowser_IPAddress_hidden"		"1"
 						"#ServerBrowser_Game_hidden"		"0"
-						"#ServerBrowser_Players_hidden"		"0"
+						"#ServerBrowser_Players_hidden"		"1"
 						"#ServerBrowser_Map_hidden"		"0"
 						"#ServerBrowser_Latency_hidden"		"0"
 						"#ServerBrowser_LastPlayed_hidden"		"0"
@@ -309,7 +309,7 @@
 				{
 					"gamelist"
 					{
-						"#ServerBrowser_Password_hidden"		"0"
+						"#ServerBrowser_Password_hidden"		"1"
 						"#ServerBrowser_Bots_hidden"		"1"
 						"#ServerBrowser_Secure_hidden"		"0"
 						"#ServerBrowser_Servers_hidden"		"0"
@@ -359,7 +359,7 @@
 						"sort_column"		"#ServerBrowser_Latency"
 						"sort_column_secondary"		""
 						"sort_column_asc"		"1"
-						"sort_column_secondary_asc"		"1"
+						"sort_column_secondary_asc"		"0"
 					}
 				}
 			}

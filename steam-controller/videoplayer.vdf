@@ -114,11 +114,18 @@
 		{
 			"button_menu"		"key_press Q, Stop"
 			"button_escape"		"key_press SPACE, Play / Pause"
+      {
+      "UnixObject"
+      {
+      "Xbox Pass Controller"
+      }
+
+      }
 			"button_back_left"	"key_press H, Skip -5m"
 			"button_back_right"	"key_press L, Skip +5m"
 			"left_bumper"		"key_press J, Skip -15s"
 			"right_bumper"		"key_press K, Skip +15s"
-			
+
 
 		}
 	}
