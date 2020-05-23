@@ -5,7 +5,7 @@
 
 There is nothing complicated here. Just clone the repository(or install in [.ZIP](https://github.com/maccree/MinePort/archive/v1.0.0beta.zip) format) to the minecraft folder ( ./minecraft):
 ```bash
-$ git clone https://github.com/maccree/minecraft-mobile-port.git
+$ git clone https://github.com/maccree/MinePort.git
 ```
 
 # Preparing for the game
