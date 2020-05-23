@@ -117,6 +117,13 @@
 			"button_back_right"	"key_press LEFT_CONTROL, Left Control"
 
 		}
+		"mouse_wheel"
+		{ modele: scroll
+
+		}
+
+
+
 	}
 
 	"settings"
@@ -126,6 +133,3 @@
 	}
 
 }
-
-	
-
