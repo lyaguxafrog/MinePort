@@ -8,6 +8,8 @@ There is nothing complicated here. Just clone the repository(or install in [.ZIP
 $ git clone https://github.com/maccree/MinePort.git
 ```
 
+### ATTENTION THIS IS IMPORTANT: First, throw the repository in the folder with minecraft, and only then add minecraft to the Steam library
+
 # Preparing for the game
 ## 1. PC
 
