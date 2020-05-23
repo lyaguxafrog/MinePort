@@ -3,7 +3,7 @@
 
 # Installing the repository
 
-There is nothing complicated here. Just clone the repository(or install in [.ZIP](link) format) to the minecraft folder ( ./minecraft):
+There is nothing complicated here. Just clone the repository(or install in [.ZIP](https://yadi.sk/d/xeQxPvafjxau9Q) format) to the minecraft folder ( ./minecraft):
 ```bash
 $ git clone https://github.com/maccree/minecraft-mobile-port.git
 ```
