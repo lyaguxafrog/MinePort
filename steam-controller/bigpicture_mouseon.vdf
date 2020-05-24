@@ -2,6 +2,7 @@
 {
 	"version" "2"
 	"game" "Steam Big Picture"
+	"minecraft" "Non-SteamGame"
 
 	"group"
 	{
