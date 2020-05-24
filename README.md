@@ -2,14 +2,14 @@
 
 # Navigation
 
-  [Installing the repository](https://github.com/maccree/MinePort#installing-the-repository)
-  [Preparing for the game](https://github.com/maccree/MinePort#preparing-for-the-game)
-    [PC](https://github.com/maccree/MinePort#1-pc)
-    [Mobile device](https://github.com/maccree/MinePort#2mobile-device)
-  [What versions does the program run on?](https://github.com/maccree/MinePort#what-versions-does-the-program-run-on)
-  [What OS does it work on?](https://github.com/maccree/MinePort#what-os-does-it-work-on)
-  [Changes in the releases](https://github.com/maccree/MinePort#changes-in-the-releases)
-  [Any more questions?](https://github.com/maccree/MinePort#any-more-questions)
+  1. [Installing the repository](https://github.com/maccree/MinePort#installing-the-repository)
+  2. [Preparing for the game](https://github.com/maccree/MinePort#preparing-for-the-game)
+    2.1. [PC](https://github.com/maccree/MinePort#1-pc)
+    2.2. [Mobile device](https://github.com/maccree/MinePort#2mobile-device)
+  3. [What versions does the program run on?](https://github.com/maccree/MinePort#what-versions-does-the-program-run-on)
+  4. [What OS does it work on?](https://github.com/maccree/MinePort#what-os-does-it-work-on)
+  5. [Changes in the releases](https://github.com/maccree/MinePort#changes-in-the-releases)
+  6. [Any more questions?](https://github.com/maccree/MinePort#any-more-questions)
 
 
 # Installing the repository
