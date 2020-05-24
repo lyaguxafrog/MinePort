@@ -48,6 +48,14 @@ From 1.3 to 1.16 snapshots!
 
 On Windows, Linux and MacOS/FreeBSD
 
+# Changes in the releases
+```
+v1.0.2beta
+1. Added the overlay port
+2. Fixed a crash bug on your mobile device
+3. Reduced sensitivity for ease of play
+```
+
 # Any more questions?
 
 Write to me by telegram([@alderoo](http://t.me/alderoo)) or email(maccree.a@yandex.com)!
