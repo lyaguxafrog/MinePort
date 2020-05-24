@@ -1,5 +1,16 @@
 ![Mineport Logo](imgs/logo.PNG)
 
+# Navigation
+
+  [Installing the repository](https://github.com/maccree/MinePort#installing-the-repository)
+  [Preparing for the game](https://github.com/maccree/MinePort#preparing-for-the-game)
+    [PC](https://github.com/maccree/MinePort#1-pc)
+    [Mobile device](https://github.com/maccree/MinePort#2mobile-device)
+  [What versions does the program run on?](https://github.com/maccree/MinePort#what-versions-does-the-program-run-on)
+  [What OS does it work on?](https://github.com/maccree/MinePort#what-os-does-it-work-on)
+  [Changes in the releases](https://github.com/maccree/MinePort#changes-in-the-releases)
+  [Any more questions?](https://github.com/maccree/MinePort#any-more-questions)
+
 
 # Installing the repository
 
@@ -42,7 +53,7 @@ Go to settings and change the control to the one that will be convenient for you
 
 # What versions does the program run on?
 
-From 1.3 to 1.16 snapshots!
+From 1.12 to 1.16 snapshots!
 
 # What OS does it work on?
 
