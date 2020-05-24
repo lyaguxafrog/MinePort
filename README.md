@@ -14,7 +14,7 @@
 
 # Installing the repository
 
-There is nothing complicated here. Just clone the repository(or install in [.ZIP](https://github.com/maccree/MinePort/archive/v1.0.1beta.zip) format) to the minecraft folder ( ./minecraft):
+There is nothing complicated here. Just clone the repository(or install in [.ZIP](https://github.com/maccree/MinePort/archive/master.zip) format) to the minecraft folder ( ./minecraft):
 ```bash
 $ git clone https://github.com/maccree/MinePort.git
 ```
