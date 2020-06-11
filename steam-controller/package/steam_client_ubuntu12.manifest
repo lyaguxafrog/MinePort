@@ -186,12 +186,6 @@
 		"sha2vz"		"4d1935ee53ea4df794e00862c2b6f895f6c19c2e183f82a9a893a48ca5958aee"
 		"IsBootstrapperPackage"		"1"
 	}
-	"runtime_part0_ubuntu12"
-	{
-		"file"		"runtime_part0_ubuntu12.zip.4b9768fe2bc17b9a6e61b2bb5f5d0c1e9f0afe67"
-		"size"		"50015274"
-		"sha2"		"5e3e181a29488a3126a532e4bf9e8877e76c5dc5edef964a6a4c21b7f10d32d5"
-	}
 	"runtime_part1_ubuntu12"
 	{
 		"file"		"runtime_part1_ubuntu12.zip.171573379f175931fb700d5805d59ab8d44dd54b"
