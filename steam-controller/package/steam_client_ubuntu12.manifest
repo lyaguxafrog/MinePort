@@ -137,14 +137,6 @@
 		"zipvz"		"bins_pub_ubuntu12.zip.vz.75bc384bb3df84c08a3ddcc7ba1185e60036be3c_9045312"
 		"sha2vz"		"11962fa4e9f77de75488b2a1321e9bff4feb8e9555cce28cc71eb4f5060be459"
 	}
-	"bins_sdk_ubuntu12"
-	{
-		"file"		"bins_sdk_ubuntu12.zip.72030950f25132cdcee43664f9a8e2fbc632adb5"
-		"size"		"20534691"
-		"sha2"		"7942bbd64d48c7935b20bc94146387525ff2c880f9cd3972334d903a451fae0f"
-		"zipvz"		"bins_sdk_ubuntu12.zip.vz.ae8402505eab1746c2c1ee21b95515bf622229d9_14091442"
-		"sha2vz"		"d71173cc58c261553a622277309396b15a63cb0f080e025ed9914d3c38f16134"
-	}
 	"bins_codecs_ubuntu12"
 	{
 		"file"		"bins_codecs_ubuntu12.zip.dd85f4e9100ba41d07459dcc45e0bfc47ddc4c56"
@@ -193,12 +185,6 @@
 		"zipvz"		"steam_ubuntu12.zip.vz.54f2c7ac77f63f96dc75782d6b90f4f6685941a7_1602676"
 		"sha2vz"		"4d1935ee53ea4df794e00862c2b6f895f6c19c2e183f82a9a893a48ca5958aee"
 		"IsBootstrapperPackage"		"1"
-	}
-	"runtime_part0_ubuntu12"
-	{
-		"file"		"runtime_part0_ubuntu12.zip.4b9768fe2bc17b9a6e61b2bb5f5d0c1e9f0afe67"
-		"size"		"50015274"
-		"sha2"		"5e3e181a29488a3126a532e4bf9e8877e76c5dc5edef964a6a4c21b7f10d32d5"
 	}
 	"runtime_part1_ubuntu12"
 	{
