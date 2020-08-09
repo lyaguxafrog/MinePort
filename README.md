@@ -1,4 +1,4 @@
-![Mineport Logo](imgs/logo.PNG)
+![Mineport Logo](imgs/logo.jpg)
 
 # Navigation
 
