@@ -207,6 +207,11 @@ def mineClassJava( selections ):
 			( "konsole", ["konsole", "--nofork", "-p", "tabtitle="+title, "-e"] ),
 			( "xterm", ["xterm", "-bg", "#383635", "-fg", "#d1cfcd", "-T", title, "-e"] ),
 			( "wine", ["winetrick", "winecfg", "wineport", title "-e"] ),
+
+			if ( not checkConfig( config ) ):
+		return 3
+
+		
 		]
 		for (op, version) in self.versionConditions:
 			if ( subprocess.call( ['dpkg', '--compare-versions', self.installed, op, version] ) != 0 ):
