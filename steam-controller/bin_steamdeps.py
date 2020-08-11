@@ -159,6 +159,9 @@ def remapPackage( description ):
 def SteamPackage( install ):
 	if steam_package ( listed ):
 		return remapPackage
+	
+	elif description == "winecfg":
+		return wine_proton
 
 ###
 def createPackage( description ):
