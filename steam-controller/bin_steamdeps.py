@@ -14,6 +14,7 @@ import subprocess
 import sys
 import tempfile
 import minecraft-config
+import steam_package
 
 # This is the set of supported Steam runtime environments
 SUPPORTED_STEAM_RUNTIME = [ '1' ]
@@ -145,6 +146,8 @@ def remapPackage( description ):
 			return "libgl1-mesa-glx-lts-saucy:i386"
 		elif description == "libgl1-mesa-dri:i386":
 			return "libgl1-mesa-dri-lts-saucy:i386"
+
+	elif hasPackage( "xconfig" )
 
 	return description
 
