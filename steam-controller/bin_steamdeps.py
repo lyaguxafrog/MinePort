@@ -116,6 +116,7 @@ def hasPackage( package ):
 		return True
 	return False
 
+###
 
 def remapPackage( description ):
 
@@ -147,10 +148,17 @@ def remapPackage( description ):
 		elif description == "libgl1-mesa-dri:i386":
 			return "libgl1-mesa-dri-lts-saucy:i386"
 
-	elif hasPackage( "xconfig" )
+	elif hasPackage( "xconfig" ):
+		if description == "libgl1-mesa-glx:i386":
 
 	return description
 
+
+###
+
+def SteamPackage( install ):
+	if steam_package ( listed ):
+		return remapPackage
 
 ###
 def createPackage( description ):
