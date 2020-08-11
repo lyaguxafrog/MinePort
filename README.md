@@ -61,10 +61,10 @@ On Windows, Linux and MacOS/FreeBSD
 
 # Changes in the releases
 ```
-v1.0.2beta
-1. Added the overlay port
-2. Fixed a crash bug on your mobile device
-3. Reduced sensitivity for ease of play
+v1.0.3beta
+
+Fixed bugs with loading proton on Linux and macOS
+
 ```
 
 # Any more questions?
