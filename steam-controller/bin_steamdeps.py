@@ -139,6 +139,12 @@ def remapPackage( description ):
 			return "libgl1-mesa-glx-lts-saucy:i386"
 		elif description == "libgl1-mesa-dri:i386":
 			return "libgl1-mesa-dri-lts-saucy:i386"
+	
+	elif hasPackage( "xconfig-64x-wineserver-nvidia" ):
+		if description == "libgl1-mesa-glx:i386":
+			return "libgl1-mesa-glx-lts-saucy:i386"
+		elif description == "libgl1-mesa-dri:i386":
+			return "libgl1-mesa-dri-lts-saucy:i386"
 
 	return description
 
