@@ -30,5 +30,14 @@ import remapPackage from steam_package
 
         ]
 
+
+        windows_packages == [
+
+                    "vid_codec64",
+                    "vid_codec32",
+                    "xp_installer",
+                    "sh_reloader"
+        ]
+
     }
 
