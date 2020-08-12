@@ -53,7 +53,7 @@ Go to settings and change the control to the one that will be convenient for you
 
 # What versions does the program run on?
 
-From 1.12 to 1.16 snapshots!
+From 1.12 to 1.16.3
 
 # What OS does it work on?
 

@@ -15,6 +15,7 @@ import sys
 import tempfile
 import minecraft-config
 import steam_package
+import wine
 
 # This is the set of supported Steam runtime environments
 SUPPORTED_STEAM_RUNTIME = [ '1' ]

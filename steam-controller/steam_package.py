@@ -6,7 +6,7 @@ import remapPackage from steam_package
 
 packege_list = {
 
-    "proton == 4.14",
+    "proton == 4.12",
     "wine",
     "wine32",
     "wine64",
@@ -20,5 +20,8 @@ packege_list = {
     "wine_dir",
     "wine_terminal",
     "gnome_wine_loader"
+    "xetrm"
+    "zenity"
+    "wine_runner"
 
 }
