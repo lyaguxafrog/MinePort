@@ -169,6 +169,10 @@ WINE REGISTRY Version 2
 #time=1d66e60c515e62e
 @="pdffile"
 
+[Software\\Classes\\.pdf] 1596986495
+#time=1d66e60c515e62e
+@="directx"
+
 [Software\\Classes\\.png] 1596986493
 #time=1d66e60c3eeb30c
 @="pngfile"
