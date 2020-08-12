@@ -61,9 +61,11 @@ On Windows, Linux and MacOS/FreeBSD
 
 # Changes in the releases
 ```
-v1.0.3beta
+v1.0.4beta
 
-Fixed bugs with loading proton on Linux and macOS
+- change in the wine loading configs
+- adding directx support
+
 
 ```
 
