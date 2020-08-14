@@ -66,7 +66,7 @@ On Windows, Linux and MacOS/FreeBSD
 Be sure to install git -> [Download](https://git-scm.com/)
 
 ## For Windows:
-Run the update_windows file.bat for the administrator name!
+Run the update_windows.bat for the administrator name!
 
 ## For Unix:
 ```$ sh ./minecraft/MinePort/update_linux.sh```
