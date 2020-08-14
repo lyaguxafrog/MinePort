@@ -28,6 +28,7 @@ $ git clone https://github.com/maccree/MinePort.git
 You will need to install the Steam(do not be surprised, minecraft did not appear in the steam). We will need it for the new cloud gaming technology "Steam Remote Play"
 Then go to your library and click on the "Add game" button in the lower left corner and select "Add a Non-Steam game" in the menu that appears"
 
+Add install this -> [XConfig-9](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ![Scrennshot-1](imgs/screenshot1.png)
 
