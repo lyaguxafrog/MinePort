@@ -8,8 +8,9 @@
   2.2. [Mobile device](https://github.com/maccree/MinePort#2mobile-device)
   3. [What versions does the program run on?](https://github.com/maccree/MinePort#what-versions-does-the-program-run-on)
   4. [What OS does it work on?](https://github.com/maccree/MinePort#what-os-does-it-work-on)
-  5. [Changes in the releases](https://github.com/maccree/MinePort#changes-in-the-releases)
-  6. [Any more questions?](https://github.com/maccree/MinePort#any-more-questions)
+  5. [How to update?](https://github.com/maccree/MinePort#how-to-update)
+  6. [Changes in the releases](https://github.com/maccree/MinePort#changes-in-the-releases)
+  7. [Any more questions?](https://github.com/maccree/MinePort#any-more-questions)
 
 
 # Installing the repository
@@ -67,7 +68,7 @@ Be sure to install git -> [Download](https://git-scm.com/)
 Run the update_windows file.bat for the administrator name!
 
 ## For Unix:
-```sh ./minecraft/MinePort/update_linux.sh```
+```$ sh ./minecraft/MinePort/update_linux.sh```
 
 # Changes in the releases
 ```
