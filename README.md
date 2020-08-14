@@ -4,8 +4,8 @@
 
   1. [Installing the repository](https://github.com/maccree/MinePort#installing-the-repository)
   2. [Preparing for the game](https://github.com/maccree/MinePort#preparing-for-the-game)
-    2.1. [PC](https://github.com/maccree/MinePort#1-pc)
-    2.2. [Mobile device](https://github.com/maccree/MinePort#2mobile-device)
+  2.1. [PC](https://github.com/maccree/MinePort#1-pc)
+  2.2. [Mobile device](https://github.com/maccree/MinePort#2mobile-device)
   3. [What versions does the program run on?](https://github.com/maccree/MinePort#what-versions-does-the-program-run-on)
   4. [What OS does it work on?](https://github.com/maccree/MinePort#what-os-does-it-work-on)
   5. [Changes in the releases](https://github.com/maccree/MinePort#changes-in-the-releases)
@@ -58,6 +58,16 @@ From 1.12 to 1.16.3
 # What OS does it work on?
 
 On Windows, Linux and MacOS/FreeBSD
+
+# How to update?
+
+Be sure to install git -> [Download](https://git-scm.com/)
+
+## For Windows:
+Run the update_windows file.bat for the administrator name!
+
+## For Unix:
+```sh ./minecraft/MinePort/update_linux.sh```
 
 # Changes in the releases
 ```
