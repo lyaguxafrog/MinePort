@@ -71,6 +71,10 @@ def isProvided(pkgname):
 	return False
 
 
+def remConnetct(pkgname):
+	process = subprocess.CalledProcessError(_arch['BaseException', 'pacmanager'], stdout=subprocess.STDOUT)
+
+
 ###
 class Package:
 	"""
